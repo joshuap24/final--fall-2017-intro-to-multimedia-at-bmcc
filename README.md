@@ -22,8 +22,6 @@ This is due at 11:00 AM on Tuesday, 19 December 2017, which is our last day of c
 
 ## Submission
 
-Fork this repo, checkout your personalized branch, and work with this repo as you would any other repo, making commits often. On the due date and time, I will clone your repo and consider this your submission.
-
-**Note**: This assignment may *only* be submitted via GitHub. **No other form of submission will be accepted**.
+Fork this repo, checkout your personalized branch, and work with this repo as you would any other repo, committing and pushing often. On the due date and time, I will clone your repo and consider this your submission. **No other form of submission will be accepted**.
 
 Make sure not to include any working files, such as `.ai`, `.psd`, or `.indd` files, in your project. **Your final grade will be reduced by an entire grade if working files are included in your project**.
