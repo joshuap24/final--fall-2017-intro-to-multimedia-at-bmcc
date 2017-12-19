@@ -9,7 +9,7 @@
 }
 
 
-animate{
+div{
   background-image: url(strip 1.png);
   animation: first-strip 1s steps(3);
   width:1500px;
@@ -27,7 +27,7 @@ animate{
   }
 }
 
-animate{
+div{
 background-image: url(strip 2.png);
 animation: second-strip 1s steps(3);
 width: 1500px;
@@ -48,7 +48,7 @@ height: 2000px;
 
 
 
-animate{
+div{
   background-image: url(strip 3.png);
   animation: third-strips 1s steps(3);
   width: 1500px;
@@ -68,7 +68,7 @@ animate{
 }
 
 
-animate{
+div{
   background-image: url(strip 4.png);
   animation: fourth-strip 1s steps(3);
   width: 1500px;
@@ -90,7 +90,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 5.png);
   animation: fith-strip 1s steps(3);
   width: 1500px;
@@ -109,7 +109,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 6.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -128,7 +128,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 7.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -147,7 +147,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 8.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -166,7 +166,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 9.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -186,7 +186,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 10.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -205,7 +205,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 11.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -224,7 +224,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 12.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -242,7 +242,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 13.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -260,7 +260,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 14.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
@@ -278,7 +278,7 @@ animate{
 
 
 
-animate{
+div{
   background-image: url(strip 15.png);
   animation: six-strip 1s steps(3);
   width: 1500px;
