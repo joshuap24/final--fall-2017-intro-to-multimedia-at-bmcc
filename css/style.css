@@ -55,3 +55,22 @@ animate{
   height: 2000px;
 
 }
+
+
+
+@@keyframes fourth-strip {
+  0%{
+    background-position: 0 0;
+  }
+  100%{
+    background-position: -2000 0;
+  }
+}
+
+
+animate{
+  background-image: url(strip 4.png);
+  animation: fourth-strip 1s steps(3);
+  width: 1500px;
+  height: 2000px;
+}
