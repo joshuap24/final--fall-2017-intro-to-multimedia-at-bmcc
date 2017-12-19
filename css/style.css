@@ -134,3 +134,22 @@ animate{
   width: 1500px;
   height: 2000px;
 }
+
+
+@@keyframes eight-strip {
+  0%{
+    background-position: 0 0;
+  }
+  100${
+    background-position: -2000 0;
+  }
+}
+
+
+
+animate{
+  background-image: url(strip 8.png);
+  animation: six-strip 1s steps(3);
+  width: 1500px;
+  height: 2000px;
+}
